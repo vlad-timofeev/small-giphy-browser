@@ -1,0 +1,33 @@
+.gifsOuterContainer {
+  width: 100%;
+  min-width: 800px;
+  max-width: 1200px;
+  min-height: 100vh;
+  background-color: #25060663;
+  text-align: center;
+}
+
+.gifsContainer {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.gifsSearch {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.loadingIndicator {
+  width: 100%;
+}
+
+.gifWrapper {
+  cursor: pointer;
+  margin: 10px;
+}
