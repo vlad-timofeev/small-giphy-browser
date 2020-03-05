@@ -12,7 +12,7 @@ Install and use the latest `lts` node (`nvm` is demonstrated here).
 
 `nvm install --lts`
 
-`nvm use --tls`
+`nvm use --lts`
 
 At the moment of writing it was:
 
