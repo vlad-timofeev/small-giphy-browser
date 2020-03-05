@@ -79,4 +79,5 @@ Things that were not covered:
 * Test coverage
 * Handling exceptional situations while interacting with Giphy API e.g.
   response JSON validation, and error notifications
+* Props checks
 * Attractive design
