@@ -68,15 +68,15 @@ Relies on *Intersection Observer API*.
 
 The priorities were set to:
 
-* Completely implement the basic browsing functionality, such as search and
+* Completely implement the basic browsing functionality such as search and
   infinite scrolling
 * Minimize usage of external libraries
-* Deliver well-written and maintainable code
+* Deliver well-written, concise, and maintainable code
 * UX (performance, consistent loading, caching results between searches)
 
 Things that were not covered:
 
 * Test coverage
-* Proper error handling of Giphy API interation, such as response JSON
-  validation, and error notifications
+* Handling exceptional situations while interacting with Giphy API e.g.
+  response JSON validation, and error notifications
 * Attractive design
