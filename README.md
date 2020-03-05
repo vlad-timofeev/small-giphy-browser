@@ -64,7 +64,7 @@ Relies on *Intersection Observer API*.
 
 5. `npm run start` will start the development version.
 
-## Tradeoffs, design desitions, incomplete tasks
+## Tradeoffs, design decitions, incomplete tasks
 
 The priorities were set to:
 
