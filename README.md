@@ -2,7 +2,7 @@
 
 ## Demo
 
-TODO
+[https://vlad-timofeev.github.io/small-giphy-browser-demo/]
 
 ## Starting point
 
